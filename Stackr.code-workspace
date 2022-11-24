@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../gatsby-simplefolio-master"
+	}
+],
+  "settings": {
+    "workbench.colorTheme": "Monokai",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "liveServer.settings.multiRootWorkspaceName": "Stackr"
+  }
+}

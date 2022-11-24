@@ -1,0 +1,82 @@
+
+body {
+  background-color: darkgreen;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: large;
+  line-height: 1.4em;
+  /* height: 1800px; */
+  margin: auto;
+}
+h1 {
+  color: brown;
+}
+#prvi {
+  
+  padding-top: 50%;
+  color: rgb(255, 255, 255);
+  background-image: url("Jozi_in_delfi.jpg");
+  background-size: 100% 100%;
+  height: 70vh;
+}
+ #imgMap {
+  position: relative;
+  margin:auto 25vw ;
+  float: left;
+  font-size: 1.5em;
+  line-height: 2.5em;
+  color: orangered;
+} 
+ #osel {
+  width: 80%;
+  height: 80%;
+} 
+/* #imgQuery {
+  position: relative;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  font-size: 1.5em;
+  line-height: 2.5em;
+  color: orangered;
+} */
+/* #razneSlike {
+  position: relative;
+  width: auto;
+} */
+bdo {
+  color: red;
+}
+address {
+  text-align: left;
+  font-size: 1.2em;
+  text-transform: capitalize;
+  line-height: 1.6em;
+}
+
+#enacbe {
+  font-weight: 700;
+  color: #1457dc;
+}
+@media screen  and ( max-width: 550px) {
+  #imgMap{ 
+    display: none;
+}
+  
+}
+/* @media screen and (max-width: 1300px) {
+  html {
+    background-color: red;
+  }
+  #razneSlike {
+    background-image: url(baba.jpg);
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+  }
+  #razneSlike:hover {
+    width: 200px;
+  }
+  picture {
+    border: 2% solid red;
+  }
+} */
